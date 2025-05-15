@@ -242,18 +242,6 @@ a:hover {
     color: var(--secondary-color);
 }
 
-.references-list ul {
-    list-style-type: none;
-    padding-left: 0;
-    margin-left: 0;
-}
-
-.references-list li {
-    list-style-type: none;
-    margin-left: 0;
-    padding-left: 0;
-}
-
 /* Content Blocks */
 .content-block {
     display: grid;
